@@ -1,16 +1,91 @@
-# React + Vite
+# Real-Time Chat Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern real-time chat application built using React, Firebase, Zustand, and
+Cloudinary.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+9
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Authentication System
+- Real-time messaging
+- User profile editing
+- Image sharing
+- Block & unblock users
+- Search chats
+- Cloudinary image uploads
+- Toast notifications
+- Responsive modern UI
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+
+- React
+- Firebase Authentication
+- Firestore Database
+- Zustand
+- Cloudinary
+- React Router DOM
+- Tailwind CSS
+- React Toastify
+- Vite
+
+---
+
+## Installation
+
+```bash
+npm install
+```
+
+---
+
+## Environment Variables
+
+Create a `.env` file:
+
+```env
+VITE_API_KEY=
+VITE_AUTH_DOMAIN=
+VITE_PROJECT_ID=
+VITE_STORAGE_BUCKET=
+VITE_MESSAGING_SENDER_ID=
+VITE_APP_ID=
+VITE_CLOUDINARY_CLOUD_NAME=
+VITE_CLOUDINARY_UPLOAD_PRESET=
+```
+
+---
+
+10
+
+## Run Project
+
+```bash
+npm run dev
+```
+
+---
+
+## Project Structure
+
+```bash
+src/
+├── components/
+├── pages/
+├── lib/
+├── assets/
+├── hooks/
+├── App.jsx
+├── main.jsx
+└── index.css
+```
+
+---
+
+## Author
+
+Sujal Purohit

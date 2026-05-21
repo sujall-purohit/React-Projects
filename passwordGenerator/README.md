@@ -11,6 +11,57 @@ Currently, two official plugins are available:
 
 The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+## Expanding the ESLint configuration# Password Generator
+
+## A customizable password generator built using React Hooks.
+
+## Features
+
+- Generate secure passwords
+- Copy to clipboard
+- Include numbers
+- Include special characters
+- Adjustable password length
+
+---
+
+4
+
+## Tech Stack
+
+- React
+- Tailwind CSS
+- Vite
+
+---
+
+## React Hooks Used
+
+- useState
+- useEffect
+- useCallback
+- useRef
+
+---
+
+## Installation
+
+```bash
+npm install
+```
+
+---
+
+## Run Project
+
+```bash
+npm run dev
+```
+
+---
+
+## Author
+
+Sujal Purohit
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.

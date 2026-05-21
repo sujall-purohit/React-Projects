@@ -1,20 +1,21 @@
-# Notes App
+# Background Color Changer
 
-## A notes management application with local storage support.
+A simple and interactive background color changer built using Preact.
+8
+
+---
 
 ## Features
 
-- Add notes
-  5
-- Delete notes
-- Local storage support
-- Responsive sticky notes UI
+- Change background instantly
+- Fast UI updates
+- Responsive layout
 
 ---
 
 ## Tech Stack
 
-- React
+- Preact
 - Tailwind CSS
 - Vite
 
