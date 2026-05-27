@@ -7,8 +7,6 @@ Cloudinary.
 
 ## Features
 
-9
-
 - Authentication System
 - Real-time messaging
 - User profile editing
@@ -34,6 +32,17 @@ Cloudinary.
 - Vite
 
 ---
+
+## Output
+
+<img width="735" height="736" alt="Screenshot 2026-05-27 172552" src="https://github.com/user-attachments/assets/16524143-9d93-4daf-9b60-ad857a69fbca" />
+
+<img width="928" height="718" alt="Screenshot 2026-05-27 172544" src="https://github.com/user-attachments/assets/cc701f13-94b8-4e58-aaf7-ecb496129b62" />
+
+<img width="1821" height="943" alt="Screenshot 2026-05-27 172458" src="https://github.com/user-attachments/assets/da9e371c-1475-4d1e-937b-415235ec04a3" />
+
+
+
 
 ## Installation
 
