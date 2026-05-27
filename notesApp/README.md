@@ -20,6 +20,11 @@
 
 ---
 
+## Output
+
+<img width="900" height="400" alt="Screenshot 2026-05-27 214813" src="https://github.com/user-attachments/assets/68efc389-dcbd-4f07-979c-72ed94183cba" />
+
+
 ## Installation
 
 ```bash
