@@ -157,11 +157,3 @@ Through these projects, I practiced:
 - Modern frontend workflows
 
 ---
-
-# 🚀 Getting Started
-
-Clone the repository:
-
-```bash
-git clone YOUR_REPOSITORY_LINK
-```
