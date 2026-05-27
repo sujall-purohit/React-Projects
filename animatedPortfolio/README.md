@@ -18,6 +18,12 @@ A modern and responsive portfolio website built using React.js, Tailwind CSS, an
 - GSAP
 - Vite
 
+## Output
+
+
+https://github.com/user-attachments/assets/bee3083a-e1a7-49a0-8079-406ff890e487
+
+
 ## Installation
 
 ```bash
