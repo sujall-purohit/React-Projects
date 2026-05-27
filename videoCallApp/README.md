@@ -41,8 +41,6 @@ npm run dev
 
 ---
 
-1
-
 ## Project Structure
 
 ```bash
