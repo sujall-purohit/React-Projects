@@ -97,30 +97,6 @@ Modern reusable job listing card interface.
 
 ---
 
-## ⚛️ React Router Practice Project
-
-Project created for learning advanced routing concepts.
-
-### Concepts Practiced
-
-- Nested routes
-- Loaders
-- Dynamic routes
-- Layouts
-
----
-
-## 🎨 Background Color Changer
-
-Simple Preact application for changing background colors dynamically.
-
-### Tech Used
-
-- Preact
-- Tailwind CSS
-
----
-
 # 🛠 Technologies Used
 
 - HTML5
